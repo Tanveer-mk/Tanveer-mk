@@ -49,7 +49,7 @@ A scalable real-time multilingual chat application built with the MERN stack.
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/mktanveeruddin8520/
-- 📧 Email: Tanveermk.dev@gmail.com
+- 📧 Email: tanveermk.dev@gmail.com
 - 🧠 LeetCode: https://leetcode.com/u/YFdgVm5Jmv/
 
 ---
