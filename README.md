@@ -42,10 +42,7 @@ A scalable real-time multilingual chat application built with the MERN stack.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanveer-mk&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=Tanveer-mk&theme=tokyonight" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanveer-mk&theme=tokyo-night" />
 
 ---
 
