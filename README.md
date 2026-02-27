@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanveer MK</h1>
+<h1 align="center">Hi 👋, I'm Tanveer</h1>
 <h3 align="center">Full Stack MERN Developer | Building Scalable & Real-Time Web Applications</h3>
 
 ---
@@ -44,7 +44,7 @@ A scalable real-time multilingual chat application built with the MERN stack.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanveer-mk&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanveer-mk&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Tanveer-mk&theme=tokyonight" />
 </p>
 
 ---
